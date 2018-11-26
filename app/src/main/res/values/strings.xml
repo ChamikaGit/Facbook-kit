@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Facebook AcccountKit</string>
+    <string name="FACEBOOK_APP_ID">337022153780351</string>
+    <string name="ACCOUNT_KIT_CLIENT_TOKEN">2c6c688f38e5de352b9b0ac6961cf6ef</string>
+    <string name="ak_login_protocol_scheme">ak2c6c688f38e5de352b9b0ac6961cf6ef</string>
+    <string name="title_activity_success_activty">SuccessActivty</string>
+
+
+</resources>
